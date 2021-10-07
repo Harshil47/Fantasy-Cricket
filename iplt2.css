@@ -1,0 +1,30 @@
+body {
+ background-image: url("pics.jpg");
+ background-size: cover;
+ font-family: 'Verdana';
+font-size: 150%;
+color: 	#FFFFFF;
+padding-left: 20px;
+
+}
+
+input {
+    border: 1px solid black;
+    background: transparent;
+}
+#uname{
+
+    text-transform:capitalize;
+    font-weight: bold;
+    font-size: 85%;
+    color: 	#3CB371;
+    font-family: 'Verdana';
+}
+#sub {
+  font-family: 'Verdana';
+  color: 	#000000;
+  font-weight: bold;
+  font-size: 95%;
+  border: 3px solid black;
+  background: transparent;
+}
