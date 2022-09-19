@@ -1,6 +1,6 @@
 # Fantasy-Cricket Web app
 
-deployed at harshil.cf/fantasy
+deployed at https://ineffectual-texts.000webhostapp.com/fantasy/ and harshil.cf/fantasy
 
 After Sign / Login you will be taken to members area
 
